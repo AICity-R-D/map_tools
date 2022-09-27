@@ -16,6 +16,7 @@ Used for maptiling
 ## Features
 
 `layer_manager`: layer order management with `mapbox_gl` package
+
 `tile`: map tiling 
 
 ## Getting started
