@@ -21,5 +21,5 @@ and the Flutter guide for
 ## Getting started
 
 ```dart
-import 'package:map_tools.dart'
+import 'package:map_tools/map_tools.dart'
 ```
