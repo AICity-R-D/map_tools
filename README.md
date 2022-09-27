@@ -13,10 +13,10 @@ and the Flutter guide for
 
 ## Features
 
-`layer_manager`: layer order management with `mapbox_gl` package
-`tile`: map tiling
-`shape`: shape collision detect and path operations
-`geojson`: geojson operations
+- `layer_manager`: layer order management with `mapbox_gl` package
+- `tile`: map tiling
+- `shape`: shape collision detect and path operations
+- `geojson`: geojson operations
 
 ## Getting started
 
