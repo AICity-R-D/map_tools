@@ -11,13 +11,12 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-Used for maptiling
-
 ## Features
 
 `layer_manager`: layer order management with `mapbox_gl` package
-
-`tile`: map tiling 
+`tile`: map tiling
+`shape`: shape collision detect and path operations
+`geojson`: geojson operations
 
 ## Getting started
 
